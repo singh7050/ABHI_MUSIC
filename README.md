@@ -52,7 +52,7 @@
 
 
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akganthesm/musicx)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prkboltipublic257/LUCY-MUSIC)
 
 
 ### Deploy To Railway
