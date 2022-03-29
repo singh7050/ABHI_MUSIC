@@ -46,7 +46,7 @@
 
 ## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
 
-##Deploy To heroku
+### Deploy To heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prkboltipublic257/LUCY-MUSIC)
 
