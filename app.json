@@ -35,11 +35,11 @@
      }, 
      "LOG_GROUP_ID":{
      "description": " creat private group and add this mishrosebot type /id", 
-     "value":""
+     "value": ""
      }, 
      "ASS_ID":{
      " description": "your assistant id", 
-     " value":""
+     " value": ""
     }
    },
    "buildpacks": [
