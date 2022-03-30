@@ -58,10 +58,10 @@ Powered By [LUCY BOTS](t.me/LUCYHELP) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url=f"https://t.me/THANOSOWNER"
+                        "CHANNEL", url=f"https://t.me/lucysuppor"
                     ),
                     InlineKeyboardButton(
-                        "SUPPORT", url=f"https://t.me/LUCYHELP"
+                        "SUPPORT", url=f"https://t.me/LUCY_BOTS"
                     )
                 ]
                 
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "RISHABH", url=f"https://t.me/Mafiarishabh")
+                        "ABHIJEET", url=f"https://t.me/prkboltipublic")
                 ]
             ]
         ),
