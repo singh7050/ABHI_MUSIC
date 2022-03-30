@@ -1,3 +1,3 @@
-## © Zaid Vc Player https://github.com/Itsunknown-12/Zaid-Vc-Player
+## © Lucy Vc Player https://github.com/Prkboltipublic257/LUCY-MUSIC
 
-## @Superior_bots
+## @LUCY_BOTS
