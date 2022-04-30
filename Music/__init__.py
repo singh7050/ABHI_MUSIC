@@ -38,7 +38,7 @@ async def load_sudoers():
                 {"sudo": "sudo"}, {"$set": {"sudoers": sudoers}}, upsert=True
             )
     SUDOERS = (SUDOERS + sudoers) if sudoers else SUDOERS
-    print("[INFO]: LOADED SUDO USERS OF YUKKI")
+    print("[INFO]: LOADED SUDO USERS OF LUCY")
 loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers())
 Music_START_TIME = time.time()
@@ -55,7 +55,7 @@ ASSUSERNAME = ""
 ASSMENTION = ""
 print("[INFO]: INITIALIZING BOT CLIENTS")
 app = Client(
-    'YukkiBot',
+    'Lucy bot',
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
